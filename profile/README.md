@@ -22,5 +22,5 @@
 
 - [ ] 追加LOCATION_GZONE点开查看卡片
 
-- [ ] 
+- [ ] EFFECT_TO_GRAVE_REDIRECT追加LOCATION_OVERLAY
     
