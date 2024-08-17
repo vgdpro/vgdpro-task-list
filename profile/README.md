@@ -5,7 +5,7 @@
 
 - [x] 主要阶段开始时点
 
-- [ ] 场上的灵摆刻度
+- [x] 场上的灵摆刻度
 
 - [ ] 主v左右增加两个魔陷区（仅用于装备）
 
@@ -17,7 +17,7 @@
 
 - [ ] 某张卡在某一区域时诱发，因其他卡的原因使此卡离开那个区域的情况下，任然使得可以诱发
 
-- [ ] 追加LOCATION_GZONE点开查看卡片
+- [x] 追加LOCATION_GZONE点开查看卡片
 
-- [ ] EFFECT_TO_GRAVE_REDIRECT追加LOCATION_OVERLAY
+- [x] EFFECT_TO_GRAVE_REDIRECT追加LOCATION_OVERLAY
     
