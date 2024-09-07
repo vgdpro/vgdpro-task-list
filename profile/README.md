@@ -21,7 +21,7 @@
 
 - [ ] EFFECT_TO_GRAVE_REDIRECT追加LOCATION_OVERLAY
 
-- [ ] Duel.IsPlayerCanSpecialSummonMonster改成能填写多个字段
+- [x] Duel.IsPlayerCanSpecialSummonMonster改成能填写多个字段
 
 - [ ] 卡片送去GZone时候消失了 2024.8.29
     
