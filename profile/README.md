@@ -23,5 +23,5 @@
 
 - [x] Duel.IsPlayerCanSpecialSummonMonster改成能填写多个字段
 
-- [ ] 卡片送去GZone时候消失了 2024.8.29
+- [x] 卡片送去GZone时候消失了 2024.8.29
     
