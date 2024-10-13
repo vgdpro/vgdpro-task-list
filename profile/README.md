@@ -23,7 +23,7 @@
 
 - [x] Duel.IsPlayerCanSpecialSummonMonster改成能填写多个字段
 
-- [ ] 卡片送去GZone时候消失了 2024.8.29
+- [x] 卡片送去GZone时候消失了 2024.8.29
 
 - [x] 获得“国家”和“集团”，改变/添加“国家”、“集团”的接口
 
