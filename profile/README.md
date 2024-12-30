@@ -9,7 +9,7 @@
 
 - [x] 某张卡在某一区域时诱发，因其他卡的原因使此卡离开那个区域的情况下，任然使得可以诱发
 
-- [ ] EFFECT_TO_GRAVE_REDIRECT追加LOCATION_OVERLAY
+- [x] EFFECT_TO_GRAVE_REDIRECT追加LOCATION_OVERLAY
 
 - [ ] 在超量素材处发动效果
 
